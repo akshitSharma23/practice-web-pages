@@ -1,0 +1,32 @@
+/* .A{
+    margin:10% 10% 10% 10%;
+    position:absolute;
+} */
+.a{
+    max-width:200%;
+    max-height: max-content;   
+    background-color: blue;
+}
+
+h1{
+    color:black;
+    background-color:brown;
+    width:19%;
+    text-align:center;
+}
+
+img{
+    
+    background-color: red;
+    border-style: double;
+}
+img:hover{
+    transition-duration:.75s;
+    background-color:black;
+    border-color:aliceblue;
+    border-width:20px;
+    border-radius:25%;
+}
+#ak{
+    font-size:50px;
+}

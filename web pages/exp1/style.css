@@ -1,0 +1,31 @@
+body{
+    background-color:#F7ECDE;
+}
+.cloud{
+    width:8%;
+}
+p{
+    text-align: center;
+    font-size:3rem;
+    margin:0;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+    text-align: center;
+    margin:0;
+}
+.c1{
+    position:relative;
+    left:10%
+}
+
+.c2{
+    position:relative;
+    top:100px;
+    left:70px;
+}
+.mountain{
+    text-align: center;
+    margin: 60px 0 0 0;
+}
